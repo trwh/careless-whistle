@@ -23,15 +23,15 @@ gem 'sqwish'
 gem 'execjs'
 
 # Syntax highlighting
-# gem 'haml-coderay'
+gem 'haml-coderay'
 
 # JS libs
-# gem 'jquery-source'
-# gem 'underscore-source'
-# gem 'backbone-source'
+gem 'jquery-source'
+gem 'underscore-source'
+gem 'backbone-source'
 
 # For Heroku deployment
-# gem 'rack-contrib'
-# gem 'puma'
-# gem 'foreman'
-# gem 'heroku_san'
+gem 'rack-contrib'
+gem 'puma'
+gem 'foreman'
+gem 'heroku_san'

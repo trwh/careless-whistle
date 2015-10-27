@@ -19,7 +19,7 @@ window.Users = [
   {
     name: 'Johan Brissmyr'
     image: 'http://www.gravatar.com/avatar/6b7b3a9f9d1c63a344cfc1d8ebb02981?s=192'
-    sequence: [0, 20, 40]
+    sequence: [0]
   }
 ]
 
